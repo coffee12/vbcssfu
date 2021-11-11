@@ -1,0 +1,5 @@
+namespace = tribal_succession
+
+# Tribal Succession Crisis
+
+	
